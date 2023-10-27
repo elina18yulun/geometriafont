@@ -1,0 +1,610 @@
+h1{                                                                    font-family: 'Geometria', sans-serif;
+    font-family: 'Geometria', sans-serif;
+}
+/* основной текст */
+p{ 
+ font-family: 'Geometria-Regular';
+ color: #0017E1;
+ font-size: 32px;
+ font-style: normal;
+ font-weight: 400; ;
+}
+
+h2{
+    color: #0017E1;
+
+/* подзаголовки */
+font-family: 'Geometria-MediumItalic';
+font-size: 100px;
+font-style: medium italic;
+font-weight: 500;
+line-height: normal;
+padding-left: 40px;
+
+}
+
+body{
+     background: #FFE6F9;
+     width: 1440px;
+     display: block;
+     margin: 0 auto;
+     position: relative;
+     background: #FFE6F9;
+}
+/* заголовок */
+h1{
+    color: #0017E1;
+font-family: 'Geometria-Bold';
+font-size: 212px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 3.178px;
+width: 1337px;
+
+ 
+}
+
+.avtors{
+    position: absolute;
+    margin-top: -15%;
+    padding-left: 5%;
+    line-height: 100.8%;
+}
+.avtor{
+    width: 447.502px;
+    color: #0017E1;
+    font-family: 'Geometria-Medium';
+font-size: 32px;
+font-style: normal;
+font-weight: 500;
+line-height: 100.8%; 
+letter-spacing: -0.48px;
+}
+.grotesk{
+    font-family: 'Geometria-Medium';
+    text-align: right;
+    color: #0017E1;
+font-family: Geometria;
+font-size: 32px;
+font-style: normal;
+font-weight: 500;
+margin-top: -13%;
+padding-right: 4%;
+line-height: 100.8%;
+}
+
+
+p1{
+    width: 339px;
+    color: #0017E1;
+text-align: right;
+font-family: Geometria;
+font-size: 32px;
+font-style: normal;
+font-weight: 500;
+
+}
+
+
+    
+
+
+.title1{
+    display: flex;
+    justify-content: center;
+    padding-top: 168px;
+    
+}
+
+.all{
+    position: absolute;
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    margin-top: 0;
+    /* width: 1440px; */
+}
+   .obloska{
+    width: 100%;
+   }
+   
+
+    /* block2  О ШРИФТЕ*/
+    .textblock{ 
+        /* margin-top: 50%; */
+        font-family: 'Geometria-Regular';
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 0 auto;
+
+    }
+
+    .aboutfont{
+        /* position: relative; */
+        display: flex;
+        justify-content: space-around;
+        margin-top: 30%;
+        padding-left: -3%;
+    }
+.shrift2{
+    margin-left: 0;
+    padding-left: 0;
+}
+.shriftall{
+    margin-top: -9%;
+}
+ .window{
+        
+     width: 405px;
+     height: 544px;
+     margin-right: 20px;
+     margin-top: 18%;
+      
+    }
+   
+    /* block3  GOOD MORNING*/
+
+    .block3{
+        position: relative;
+    }
+    .gm{
+        padding-left: 50px;   
+    }
+    .gmp{
+        padding-left: 60px;
+        margin-top: -5%;
+    }
+    .techclock{
+       
+width: 566px;
+height: 307px;
+margin-top: 150px;
+    }
+    .phone{
+width: 418px;
+height: 615px;
+margin-left: -50px;
+    }
+    .clock{
+width: 474px;
+height: 534px;
+margin-left: -100px;
+
+    }
+    .budulniki{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-left: -20px;
+
+    }
+    h4{
+        color: #FD560D;
+
+font-family: 'Geometria-Bold';
+font-size: 195px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+-webkit-text-stroke-color: #0017E1;
+-webkit-text-stroke-width: 4px;
+    }
+    .alarm{
+       display: flex;
+       flex-direction: row;
+       
+
+    }
+    .alarm1{
+        margin-top: 10%;
+        margin-left: 40px;
+    }
+    .alarm2{
+        margin-left: -230px;
+        margin-top: 23%;
+    }
+    .alarm3{
+        margin-top: 36%;
+        margin-left: -180px;
+    }
+    .numbers{
+        position: absolute;
+        width: 1402px;
+        height: 871px;
+    }
+ /* block4  ОСОБЕННОСТИ  */
+
+ .features{
+    padding-left: 60px;
+    margin-top: -10%;
+ }
+ .featurestext{
+    padding-left: 60px;
+    margin-top: -5%;
+ }
+ .letters{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 8%;
+
+ }
+ .C{
+    width: 357px;
+    height: 330px;
+ }
+ .Y{
+    width: 299px;
+    height: 322px;
+ }
+ .N{
+
+    width: 319px;
+    height: 322px;
+ }
+
+ /* block5 GO TO THE BATHROOM */
+ .block5{
+    position: relative;
+ }
+ .bathroomh2{
+    padding-left: 40px;
+    
+ }
+ .bathroomp{
+    padding-left: 60px;
+    margin-top: -5%;
+ }
+.bath{
+    width: 1440px;
+    height: 627px;
+}
+.nachertania{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -36%;
+    align-items: center;
+
+    .normal{
+        margin-right: -20%;
+    }
+    
+}
+.thin{
+    font-family: 'Geometria-Thin';
+    line-height: 20px;
+}
+.extralight{
+    font-family: 'Geometria-ExtraLight';
+    line-height: 20px;
+}
+.light{
+    font-family: 'Geometria-Light';
+    line-height: 12px;
+}
+.regular{
+    font-family: 'Geometria-Regular';
+    line-height: 20px;
+}
+.mediun{
+    font-family: 'Geometria-Medium';
+    line-height: 20px;
+
+}
+.bold{
+    font-family: 'Geometria-Bold';
+    line-height: 20px;
+}
+.extrabold{
+    font-family: 'Geometria-ExtraBold';
+    line-height: 20px;
+}
+.heavy{
+    font-family: 'Geometria-Heavy';
+    line-height: 20px;
+}
+
+.thini{
+    font-family: 'Geometria-ThinItalic';
+    line-height: 20px;
+}
+.extralighti{
+    font-family: 'Geometria-ExtraLightItalic';
+    line-height: 20px;
+}
+.lighti{
+    font-family: 'Geometria-LightItalic';
+    line-height: 20px;
+}
+.regulari{
+    font-family: 'Geometria-Italic';
+    line-height: 20px;
+}
+.mediumi{
+    font-family: 'Geometria-MediumItalic';
+    line-height: 20px;
+
+}
+.boldi{
+    font-family: 'Geometria-BoldItalic';
+    line-height: 20px;
+}
+.extraboldi{
+    font-family: 'Geometria-ExtraBoldItalic';
+    line-height: 20px;
+}
+.heavyi{
+    font-family: 'Geometria-HeavyItalic';
+    line-height: 20px;
+}
+.colgate{
+    display: flex;
+    justify-content: space-around;
+    height: 260px;
+    margin-left: 30%;
+    margin-top: -500px;
+
+    /* margin-top: px; */
+}
+.penka{
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    margin-left: 40px;
+    margin-top: 10%;
+}
+
+.toothbrach{  
+    display: flex;
+    height: 700px;
+    margin-left: 350px;
+    margin-top: -19%;
+}
+.nivea{
+    
+    height: 800px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 970px;
+    margin-top: -55%;
+
+}
+.brashe{
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    margin-top: -10%;
+    margin-left: 60px;
+
+}
+.palmolive{
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+    margin-top: -35%;
+    padding-left: 200px;
+
+}
+.soap{
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+    margin-top: -48%;
+    padding-left: 620px;
+}
+.cream{
+    display: flex;
+    justify-content: space-around;
+    height: 260px;
+    padding-left: 1000px;
+}
+.lr{
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    padding-left: 1000px;
+    margin-top: 5%;
+}
+.conditioner{
+    display: flex;
+    justify-content: space-around;
+    height: 750px;
+    margin-top: -40%;
+    padding-left: 500px;
+    
+}
+.gilette{
+    display: flex;
+    justify-content: space-around;
+    height: 280px;
+    padding-left: 60px;
+    margin-top: -25%;
+    transform: rotate(15deg);
+}
+
+/* block7 read a book */
+.rab{
+    margin-top: 2%;
+}
+
+.polkaall{
+    margin-top: -7%;
+}
+.polka{
+    width: 100%;
+    
+}
+.geo{
+    position: absolute;
+    padding-left: 13%;
+    margin-top: -103%;
+    color: #0017E1;
+    font-family: 'Geometria-Bold';
+    font-size: 373px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.me{
+    position: absolute;
+    padding-left: 30%;
+    margin-top: -82%;
+    color: #0017E1;
+    font-family: 'Geometria-Bold';
+    font-size: 373px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;  
+}
+.tr{
+    position: absolute;
+    padding-left: 26%;
+    margin-top: -61.5%;
+    color: #0017E1;
+    font-family: 'Geometria-Bold';
+    font-size: 373px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;  
+
+}
+.ia{
+    position: absolute;
+    padding-left: 56%;
+    margin-top: -40.5%;
+    color: #0017E1;
+    font-family: 'Geometria-Bold';
+    font-size: 373px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;   
+}
+/* block8 OR WATCH TV */
+.glif{
+    padding-left: 60px;
+    margin-top: -6%;
+}
+.owtv{
+    margin-top: 0%;
+}
+.pult{
+    height: 766px;
+    padding-left: 40px;
+}
+.TV{
+    height: 766px;
+    padding-left: 300px;
+    margin-top: -52%;
+}
+h5{
+    color: #0017E1;
+    text-align: center;
+    font-family: 'Geometria-Regular';
+    font-size: 66.56px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.stroke1{
+    position: absolute;
+    width: 952px;
+    margin-top: -49.5%;
+    padding-left: 365px;
+}
+.stroke2{
+    position: absolute;
+    width: 952px;
+    margin-top: -41.5%;
+    padding-left: 365px;  
+}
+.stroke3{
+    position: absolute;
+    width: 945px;
+    margin-top: -33%;
+    padding-left: 375px; 
+
+}
+.stroke4{
+    position: absolute;
+    width: 960px;
+    margin-top: -24.5%;
+    padding-left: 353px; 
+
+}
+.stroke5{
+    position: absolute;
+    width: 945px;
+    margin-top: -16.5%;
+    padding-left: 365px; 
+
+}
+/* block9 go to breakfast */
+.foodall{
+    width: 100%;
+    margin-top: -3%;
+}
+/* block10 */
+.hall{
+    padding-left: 100px;
+    width: 1207px;
+}
+.goodbye{
+    position: absolute;
+    padding-left: 970px;
+    margin-top: -47.5%;
+ color: #0017E1;
+ font-family: 'Geometria-BoldItalic';
+ font-size: 52.947px;
+ font-style: italic;
+ font-weight: 700;
+ line-height: normal;
+ letter-spacing: 0.794px;
+}
+.block10{
+    margin-top: -7%;
+}
+.hallall{
+    margin-top: -5%;
+}
+.base{
+    width: 100%;
+    margin-top: -0.9%;
+}
+.elina{
+ position: absolute;
+ margin-top: 2.5%;
+ padding-left: 40px;
+ color: #FFE6F9;
+ font-family: 'Geometria-Medium';
+ font-size: 28px;
+ font-style: normal;
+ font-weight: 500;
+ line-height: normal;
+}
+.kurator{
+    position: absolute;
+    margin-top: 2.5%;
+    padding-left: 35%;
+ color: #FFE6F9;
+ font-family: 'Geometria-Medium';
+ font-size: 28px;
+ font-style: normal;
+ font-weight: 500;
+ line-height: normal;
+
+}
+.group{
+    position: absolute;
+    margin-top: 2.5%;
+    padding-left: 80%;
+ color: #FFE6F9;
+ font-family: 'Geometria-Medium';
+ font-size: 28px;
+ font-style: normal;
+ font-weight: 500;
+ line-height: normal;
+
+}

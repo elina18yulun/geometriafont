@@ -1,0 +1,107 @@
+@font-face {
+    font-family: 'Geometria-Thin';
+    src: url(../font/Geometria/Geometria-Thin.ttf)format(truetype);
+    font-style: thin;
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'Geometria-ThinItalic';
+    src: url(../font/Geometria/Geometria-ThinItalic.ttf)format(truetype);
+    font-style: thin italic;
+    font-weight: 100;
+}
+
+    @font-face {
+    font-family: 'Geometria-ExtraLightItalic';
+    src: url(../font/Geometria/Geometria-ExtraLightItalic.ttf)format(truetype);
+    font-style: light italic;
+    font-weight: 200;
+}   
+
+@font-face {
+    font-family: 'Geometria-ExtraLight';
+    src: url(../font/Geometria/Geometria-ExtraLight.ttf)format(truetype);
+    font-style:  light;
+    font-weight: 200;
+}   
+
+@font-face {
+    font-family: 'Geometria-Light';
+    src: url(../font/Geometria/Geometria-Light.ttf)format(truetype);
+    font-style: light ;
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Geometria-LightItalic';
+    src: url(../font/Geometria/Geometria-LightItalic.ttf)format(truetype);
+    font-style: light italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Geometria-Regular';
+    src: url(../font/Geometria/Geometria-Regular.ttf)format(truetype);
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Geometria-Italic';
+    src: url(../font/Geometria/Geometria-Italic.ttf)format(truetype);
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Geometria-Medium';
+    src: url(../font/Geometria/Geometria-Medium.ttf)format(truetype);
+    font-style: medium;
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Geometria-MediumItalic';
+    src: url(../font/Geometria/Geometria-MediumItalic.ttf)format(truetype);
+    font-style: medium italic;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Geometria-Bold';
+    src: url(../font/Geometria/Geometria-Bold.ttf) format(truetype);
+    font-style: bold;
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Geometria-BoldItalic';
+    src: url(../font/Geometria/Geometria-BoldItalic.ttf) format(truetype);
+    font-style: bold italic;
+    font-weight: 700;
+}
+                                                
+                       
+@font-face {
+    font-family: 'Geometria-ExtraBold';
+    src: url(../font/Geometria/Geometria-ExtraBold.ttf)format(truetype);
+    font-style:  bold;
+    font-weight: 800;
+
+}
+             
+@font-face {
+    font-family: 'Geometria-ExtraBoldItalic';
+    src: url(../font/Geometria/Geometria-ExtraBoldItalic.ttf)format(truetype);
+    font-style: bold italic;
+    font-weight: 800;
+}   
+
+
+@font-face {
+    font-family: 'Geometria-Heavy';
+    src: url(../font/Geometria/Geometria-Heavy.ttf)format(truetype);
+    font-style: bold;
+    font-weight: 900;
+}   
+@font-face {
+    font-family: 'Geometria-HeavyItalic';
+    src: url(../font/Geometria/Geometria-HeavyItalic.ttf)format(truetype);
+    font-style: bold italic;
+    font-weight: 900;
+}   
