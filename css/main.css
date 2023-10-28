@@ -267,7 +267,7 @@ line-height: normal;
     margin-top: -36%;
     align-items: center;
 
-    .normal{
+.normal{
         margin-right: -20%;
     }
     
@@ -348,37 +348,80 @@ line-height: normal;
 }
 
 .thini{
-    font-family: 'Geometria-ThinItalic';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+ font-family: Geometria;
+ font-size: 36px;
+ font-style: italic;
+ font-weight: 250;
+ line-height: normal;
 }
 .extralighti{
-    font-family: 'Geometria-ExtraLightItalic';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+ font-family: Geometria;
+ font-size: 36px;
+ font-style: italic;
+ font-weight: 275;
+ line-height: normal;
+    
 }
 .lighti{
-    font-family: 'Geometria-LightItalic';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+ font-family: Geometria;
+ font-size: 36px;
+ font-style: italic;
+ font-weight: 300;
+ line-height: normal;
+    
 }
 .regulari{
-    font-family: 'Geometria-Italic';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+ font-family: 'Geometria';
+ font-size: 36px;
+ font-style: italic;
+ font-weight: 400;
+ line-height: normal;
 }
 .mediumi{
-    font-family: 'Geometria-MediumItalic';
-    line-height: 20px;
-
+    color: #0017E1;
+    line-height: 10px;
+ font-family: 'Geometria';
+ font-size: 36px;
+ font-style: italic;
+ font-weight: 500;
+ line-height: normal;
+    
 }
 .boldi{
-    font-family: 'Geometria-BoldItalic';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+ font-family: 'Geometria';
+ font-size: 36px;
+ font-style: italic;
+ font-weight: 700;
+ line-height: normal;
+    
 }
 .extraboldi{
-    font-family: 'Geometria-ExtraBoldItalic';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+ font-family: 'Geometria';
+ font-size: 36px;
+ font-style: italic;
+ font-weight: 800;
+ line-height: normal;
 }
 .heavyi{
-    font-family: 'Geometria-HeavyItalic';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+ font-family: 'Geometria';
+ font-size: 36px;
+ font-style: italic;
+ font-weight: 900;
+ line-height: normal;
 }
 .colgate{
     display: flex;
