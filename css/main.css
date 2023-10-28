@@ -267,12 +267,16 @@ line-height: normal;
 
 .normal{
         margin-right: -20%;
+        margin-top: 4%;
         
     }
+.italic{
+    margin-top: 4%;
+}    
     
 }
 .thin{
-    line-height: 20px;
+    line-height: 30px;
     margin: 0;
     color: #0017E1;
     font-family: 'Geometria';
@@ -467,7 +471,7 @@ line-height: normal;
     display: flex;
     justify-content: space-around;
     margin-left: 970px;
-    margin-top: -55%;
+    margin-top: -50%;
 
 }
 .brashe{
@@ -538,7 +542,7 @@ line-height: normal;
 .geo{
     position: absolute;
     padding-left: 13%;
-    margin-top: -103%;
+    margin-top: -102%;
     color: #0017E1;
     font-family: 'Geometria';
     font-size: 373px;
@@ -549,7 +553,7 @@ line-height: normal;
 .me{
     position: absolute;
     padding-left: 30%;
-    margin-top: -82%;
+    margin-top: -81%;
     color: #0017E1;
     font-family: 'Geometria';
     font-size: 373px;
@@ -560,7 +564,7 @@ line-height: normal;
 .tr{
     position: absolute;
     padding-left: 26%;
-    margin-top: -61.5%;
+    margin-top: -60.5%;
     color: #0017E1;
     font-family: 'Geometria';
     font-size: 373px;
@@ -572,7 +576,7 @@ line-height: normal;
 .ia{
     position: absolute;
     padding-left: 56%;
-    margin-top: -40.5%;
+    margin-top: -39.5%;
     color: #0017E1;
     font-family: 'Geometria';
     font-size: 373px;
