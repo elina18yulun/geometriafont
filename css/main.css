@@ -273,37 +273,78 @@ line-height: normal;
     
 }
 .thin{
-    font-family: 'Geometria-Thin';
-    line-height: 20px;
+    line-height: 10px;
+    color: #0017E1;
+    font-family: 'Geometria';
+ font-size: 36px;
+ font-style: normal;
+ font-weight: 250;
+ ine-height: normal;
+
 }
 .extralight{
-    font-family: 'Geometria-ExtraLight';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+ font-family: 'Geometria';
+ font-size: 36px;
+ font-style: normal;
+ font-weight: 300;
+ line-height: normal;
 }
 .light{
-    font-family: 'Geometria-Light';
-    line-height: 12px;
+    color: #0017E1;
+    line-height: 10px;
+    font-size: 36px;
+  font-style: normal;
+ font-weight: 300;
+ line-height: normal;
 }
 .regular{
-    font-family: 'Geometria-Regular';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+    font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+    
 }
 .mediun{
-    font-family: 'Geometria-Medium';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+    font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+    
 
 }
 .bold{
-    font-family: 'Geometria-Bold';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+    font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+    
 }
 .extrabold{
-    font-family: 'Geometria-ExtraBold';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+    font-size: 36px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+
+    
 }
 .heavy{
-    font-family: 'Geometria-Heavy';
-    line-height: 20px;
+    color: #0017E1;
+    line-height: 10px;
+    font-size: 36px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+    
 }
 
 .thini{
