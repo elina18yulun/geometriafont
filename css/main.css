@@ -273,7 +273,7 @@ line-height: normal;
     
 }
 .thin{
-    line-height: 10px;
+    line-height: 5px;
     color: #0017E1;
     font-family: 'Geometria';
  font-size: 36px;
@@ -284,7 +284,7 @@ line-height: normal;
 }
 .extralight{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
  font-family: 'Geometria';
  font-size: 36px;
  font-style: normal;
@@ -293,7 +293,7 @@ line-height: normal;
 }
 .light{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
     font-size: 36px;
   font-style: normal;
  font-weight: 300;
@@ -301,7 +301,7 @@ line-height: normal;
 }
 .regular{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
     font-size: 36px;
   font-style: normal;
   font-weight: 400;
@@ -310,7 +310,7 @@ line-height: normal;
 }
 .mediun{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
     font-size: 36px;
   font-style: normal;
   font-weight: 500;
@@ -320,7 +320,7 @@ line-height: normal;
 }
 .bold{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
     font-size: 36px;
   font-style: normal;
   font-weight: 700;
@@ -329,7 +329,7 @@ line-height: normal;
 }
 .extrabold{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
     font-size: 36px;
   font-style: normal;
   font-weight: 800;
@@ -339,7 +339,7 @@ line-height: normal;
 }
 .heavy{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
     font-size: 36px;
   font-style: normal;
   font-weight: 900;
@@ -349,8 +349,8 @@ line-height: normal;
 
 .thini{
     color: #0017E1;
-    line-height: 10px;
- font-family: Geometria;
+    line-height: 5px;
+ font-family: 'Geometria';
  font-size: 36px;
  font-style: italic;
  font-weight: 250;
@@ -358,8 +358,8 @@ line-height: normal;
 }
 .extralighti{
     color: #0017E1;
-    line-height: 10px;
- font-family: Geometria;
+    line-height: 5px;
+ font-family: 'Geometria';
  font-size: 36px;
  font-style: italic;
  font-weight: 275;
@@ -368,8 +368,8 @@ line-height: normal;
 }
 .lighti{
     color: #0017E1;
-    line-height: 10px;
- font-family: Geometria;
+    line-height: 5px;
+ font-family: 'Geometria';
  font-size: 36px;
  font-style: italic;
  font-weight: 300;
@@ -378,7 +378,7 @@ line-height: normal;
 }
 .regulari{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
  font-family: 'Geometria';
  font-size: 36px;
  font-style: italic;
@@ -387,7 +387,7 @@ line-height: normal;
 }
 .mediumi{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
  font-family: 'Geometria';
  font-size: 36px;
  font-style: italic;
@@ -397,7 +397,7 @@ line-height: normal;
 }
 .boldi{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
  font-family: 'Geometria';
  font-size: 36px;
  font-style: italic;
@@ -407,7 +407,7 @@ line-height: normal;
 }
 .extraboldi{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
  font-family: 'Geometria';
  font-size: 36px;
  font-style: italic;
@@ -416,7 +416,7 @@ line-height: normal;
 }
 .heavyi{
     color: #0017E1;
-    line-height: 10px;
+    line-height: 5px;
  font-family: 'Geometria';
  font-size: 36px;
  font-style: italic;
