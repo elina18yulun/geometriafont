@@ -273,7 +273,19 @@ line-height: normal;
 .italic{
     margin-top: 4%;
 }    
-    
+.bath{
+        display: flex;
+        justify-content: center;
+}
+.normal{
+        margin-right: -20%;
+        margin-top: 4%;
+        
+}
+.italic{
+    margin-top: 4%;
+}    
+
 }
 .thin{
     line-height: 30px;
