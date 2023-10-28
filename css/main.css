@@ -12,14 +12,12 @@ p{
 
 h2{
     color: #0017E1;
-
-/* подзаголовки */
-font-family: 'Geometria';
-font-size: 100px;
-font-style: medium italic;
-font-weight: 500;
-line-height: normal;
-padding-left: 40px;
+ font-family: 'Geometria';
+ font-size: 100px;
+ font-style: medium italic;
+ font-weight: 500;
+ line-height: normal;
+ padding-left: 40px;
 
 }
 
