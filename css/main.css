@@ -3,7 +3,7 @@ h1{                                                                    font-fami
 }
 /* основной текст */
 p{ 
- font-family: 'Geometria-Regular';
+ font-family: 'Geometria';
  color: #0017E1;
  font-size: 32px;
  font-style: normal;
@@ -14,7 +14,7 @@ h2{
     color: #0017E1;
 
 /* подзаголовки */
-font-family: 'Geometria-MediumItalic';
+font-family: 'Geometria';
 font-size: 100px;
 font-style: medium italic;
 font-weight: 500;
@@ -34,7 +34,7 @@ body{
 /* заголовок */
 h1{
     color: #0017E1;
-font-family: 'Geometria-Bold';
+font-family: 'Geometria';
 font-size: 212px;
 font-style: normal;
 font-weight: 700;
@@ -54,7 +54,7 @@ width: 1337px;
 .avtor{
     width: 447.502px;
     color: #0017E1;
-    font-family: 'Geometria-Medium';
+    font-family: 'Geometria';
 font-size: 32px;
 font-style: normal;
 font-weight: 500;
@@ -62,7 +62,7 @@ line-height: 100.8%;
 letter-spacing: -0.48px;
 }
 .grotesk{
-    font-family: 'Geometria-Medium';
+    font-family: 'Geometria';
     text-align: right;
     color: #0017E1;
 font-size: 32px;
@@ -78,7 +78,7 @@ p1{
     width: 339px;
     color: #0017E1;
 text-align: right;
-font-family: Geometria;
+font-family: 'Geometria';
 font-size: 32px;
 font-style: normal;
 font-weight: 500;
@@ -112,7 +112,7 @@ font-weight: 500;
     /* block2  О ШРИФТЕ*/
     .textblock{ 
         /* margin-top: 50%; */
-        font-family: 'Geometria-Regular';
+        font-family: 'Geometria';
 font-size: 32px;
 font-style: normal;
 font-weight: 400;
@@ -183,7 +183,7 @@ margin-left: -100px;
     h4{
         color: #FD560D;
 
-font-family: 'Geometria-Bold';
+font-family: 'Geometria';
 font-size: 195px;
 font-style: normal;
 font-weight: 700;
